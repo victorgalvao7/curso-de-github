@@ -24,11 +24,11 @@ Lista numerada:(aquele 1 pode ser literalmente qualquer número desde que tinha 
 
 Lista demarcada:
 
-*Isso faz a bolinha marcada
-*bolinha 2
-*bolinha 3
-   *bolinha dentro da bolinha 3 
-*bolinha 4
+* Isso faz a bolinha marcada
+* bolinha 2
+* bolinha 3
+   * bolinha dentro da bolinha 3 
+* bolinha 4
 
 lista de tarefas:
 
